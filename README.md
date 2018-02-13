@@ -18,13 +18,11 @@ FC rSTATS  Crash Course:
 
 6. Lists
 
-7. Dictionaries
+7. Packages
 
-8. Python Modules
+8. Creating Functions
 
-9. Creating Functions
-
-10. Random with Expected Goals
+9. Random Numbers with Expected Goals
 
 Once you have a grasp of the concepts above, you should aim to move on to our introduction to data analysis in R. Here, you’ll learn about cleaning and analysing data in R, as well as visualisation of your insights.
 
