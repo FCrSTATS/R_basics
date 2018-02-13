@@ -10,7 +10,7 @@ FC rSTATS  Crash Course:
 
 2. [Comparisons & Logic](https://github.com/FCrSTATS/R_basics/blob/master/2.Comparisons_Logic.md)
 
-3. If Statements
+3. [If Statements](https://github.com/FCrSTATS/R_basics/blob/master/3.IfStatements.md
 
 4. For Loops
 
