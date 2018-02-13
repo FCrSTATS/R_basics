@@ -16,7 +16,7 @@ FC rSTATS  Crash Course:
 
 5. [While Loops](https://github.com/FCrSTATS/R_basics/blob/master/5.WhileLoops.md)
 
-6. Lists
+6. [Lists](https://github.com/FCrSTATS/R_basics/blob/master/6.Lists.md)
 
 7. Packages
 
