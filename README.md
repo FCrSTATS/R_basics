@@ -6,7 +6,7 @@ We recommend that you get RStudio installed with the instructions [here](https:/
 
 FC rSTATS  Crash Course:
 
-1. Numbers, Strings & Variables
+1. [Numbers, Strings & Variables](https://github.com/FCrSTATS/R_basics/blob/master/1.NumbersStrings_Variable.md)
 
 2. Comparisons & Logic
 
