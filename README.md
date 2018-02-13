@@ -5,15 +5,25 @@ FC rSTATS aim to make the basics of learning R accessible to those that wish to 
 We recommend that you get RStudio installed with the instructions [here](https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/), then follow along with our basics series listed below. The examples within certainly aren’t exhaustive, but they will give you an accessible introduction into the basic concepts with easy-to-follow examples based (sometimes tenuously!) on topics around football.
 
 FC rSTATS  Crash Course:
-1.Numbers, Strings & Variables
+
+1. Numbers, Strings & Variables
+
 2. Comparisons & Logic
+
 3. If Statements
+
 4. For Loops
+
 5. While Loops
+
 6. Lists
+
 7. Dictionaries
+
 8. Python Modules
+
 9. Creating Functions
+
 10. Random with Expected Goals
 
 Once you have a grasp of the concepts above, you should aim to move on to our introduction to data analysis in R. Here, you’ll learn about cleaning and analysing data in R, as well as visualisation of your insights.
