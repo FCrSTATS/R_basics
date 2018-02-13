@@ -14,7 +14,7 @@ FC rSTATS  Crash Course:
 
 4. [For Loops](https://github.com/FCrSTATS/R_basics/blob/master/4.ForLoops.md)
 
-5. While Loops
+5. [While Loops](https://github.com/FCrSTATS/R_basics/blob/master/5.WhileLoops.md)
 
 6. Lists
 
