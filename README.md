@@ -12,7 +12,7 @@ FC rSTATS  Crash Course:
 
 3. [If Statements](https://github.com/FCrSTATS/R_basics/blob/master/3.IfStatements.md)
 
-4. For Loops
+4. [For Loops](https://github.com/FCrSTATS/R_basics/blob/master/4.ForLoops.md)
 
 5. While Loops
 
