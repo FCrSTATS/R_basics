@@ -22,7 +22,7 @@ FC rSTATS  Crash Course:
 
 8. [Creating Functions](https://github.com/FCrSTATS/R_basics/blob/master/8.Functions.md)
 
-9. Random Numbers with Expected Goals
+9. [Random Numbers with Expected Goals](https://github.com/FCrSTATS/R_basics/blob/master/9.RandomExpectedGoals.md)
 
 Once you have a grasp of the concepts above, you should aim to move on to our introduction to data analysis in R. Here, you’ll learn about cleaning and analysing data in R, as well as visualisation of your insights.
 
