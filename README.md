@@ -18,7 +18,7 @@ FC rSTATS  Crash Course:
 
 6. [Lists](https://github.com/FCrSTATS/R_basics/blob/master/6.Lists.md)
 
-7. Packages
+7. [Packages](https://github.com/FCrSTATS/R_basics/blob/master/7.Packages.md)
 
 8. Creating Functions
 
