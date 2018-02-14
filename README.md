@@ -20,7 +20,7 @@ FC rSTATS  Crash Course:
 
 7. [Packages](https://github.com/FCrSTATS/R_basics/blob/master/7.Packages.md)
 
-8. Creating Functions
+8. [Creating Functions](https://github.com/FCrSTATS/R_basics/blob/master/8.Functions.md)
 
 9. Random Numbers with Expected Goals
 
