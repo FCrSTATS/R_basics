@@ -1,6 +1,6 @@
 # R Basics with FC rSTATS
 
-FC rSTATS aim to make the basics of learning R accessible to those that wish to learn, but may not have the advantage of access to paid resources or a background in maths of programming.
+FC rSTATS aim to make the basics of learning R accessible to those that wish to learn, but may not have the advantage of access to paid resources or a background in maths or programming.
 
 We recommend that you get RStudio installed with the instructions [here](https://courses.edx.org/courses/UTAustinX/UT.7.01x/3T2014/56c5437b88fa43cf828bff5371c6a924/), then follow along with our basics series listed below. The examples within certainly aren’t exhaustive, but they will give you an accessible introduction into the basic concepts with easy-to-follow examples based (sometimes tenuously!) on topics around football.
 
